@@ -105,7 +105,7 @@ E-Commerce Management App is a full-stack web application designed to facilitate
 ## Project Image
 
 ### Home Page
-![Image](https://github.com/user-attachments/assets/3097ef22-8ea2-4f72-875d-cdfc90d072fe)
+![Image](https://github.com/user-attachments/assets/c1dc109e-dae4-4d7c-bbcd-a54a1c3e0bdc)
 
 ### Cart Page
 ![Image](https://github.com/user-attachments/assets/dfa61a3b-f05b-463b-8f8e-82b214cbf22d)
